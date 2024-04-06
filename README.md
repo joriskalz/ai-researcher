@@ -1,5 +1,5 @@
 # Fork of [Binxly/ai-researcher](https://github.com/Binxly/ai-researcher) which is a Fork of [AI-Researcher](https://github.com/mshumer/ai-researcher) by [@mattshumer](https://github.com/mshumer)
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1G6GA2Od-x_cf-xt0B5jOz0Me-bBAsXVz?usp=sharing)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/joriskalz/ai-researcher/blob/main/Claude_Researcher_Google_API.ipynb)
 
 This project is an evolving fork of the `Binxly/ai-researcher` repository, which itself is a fork of the original `ai-researcher` repository created by [@mattshumer](https://github.com/mshumer). The original version utilized Claude 3 and SERPAPI to conduct research, while the `Binxly/ai-researcher` fork modified the project to use Google Search API for searching capabilities. This fork builds upon those changes with further enhancements. Below are the details of the modifications:
 
